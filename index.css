@@ -32,6 +32,15 @@ h3 {
     font-size: 15px;
 }
 
+.text-frame {
+    margin-top: 10px;
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    border: solid black;
+}
+
 /* #region秒杀区start*/
 .coreservice {
     margin-top: 10px;
