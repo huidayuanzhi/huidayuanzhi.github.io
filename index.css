@@ -86,6 +86,28 @@ h3 {
 .serviceadvantage div.item_4:last-child {
     margin-right: 0;
 }
-/* #endregion秒杀区end*/
+
+.packageprice img {
+    width: 300px;
+    height: auto;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.packageprice img:last-child {
+    margin-right: 0;
+}
+.packageprice div.item_4 {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-right: 8px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.packageprice div.item_4:last-child {
+    margin-right: 0;
+}
+
+
 
 
